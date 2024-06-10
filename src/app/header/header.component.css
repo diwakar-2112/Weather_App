@@ -60,4 +60,7 @@
   .logo{
     margin-top: -1rem;
   }
+  .time{
+    visibility: hidden;
+  }
 }
